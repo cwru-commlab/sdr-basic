@@ -1,5 +1,5 @@
-# curriculum_template
-_This is a template for curriculum repositories in CWRU communications courses. Replace the italicized text as described. Here, give a brief description of what this module is for._
+# SDR Basics
+This is a repository of SDR demos in Python and GNU Radio. _It is currently a work in progress._
 
 ### Information Table
 _Fill out this table._
